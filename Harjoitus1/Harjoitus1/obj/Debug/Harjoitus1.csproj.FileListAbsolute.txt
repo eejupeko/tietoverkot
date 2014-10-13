@@ -1,0 +1,6 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csprojResolveAssemblyReference.cache
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.pdb

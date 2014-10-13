@@ -1,0 +1,6 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliPalvelin\bin\Debug\PeliPalvelin.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliPalvelin\bin\Debug\PeliPalvelin.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliPalvelin\bin\Debug\PeliPalvelin.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliPalvelin\obj\Debug\PeliPalvelin.csprojResolveAssemblyReference.cache
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliPalvelin\obj\Debug\PeliPalvelin.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliPalvelin\obj\Debug\PeliPalvelin.pdb

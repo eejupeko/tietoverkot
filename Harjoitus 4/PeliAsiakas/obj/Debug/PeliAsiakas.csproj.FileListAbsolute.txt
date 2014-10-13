@@ -1,0 +1,6 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliAsiakas\bin\Debug\PeliAsiakas.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliAsiakas\bin\Debug\PeliAsiakas.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliAsiakas\bin\Debug\PeliAsiakas.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliAsiakas\obj\Debug\PeliAsiakas.csprojResolveAssemblyReference.cache
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliAsiakas\obj\Debug\PeliAsiakas.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 4\PeliAsiakas\obj\Debug\PeliAsiakas.pdb

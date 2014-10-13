@@ -1,0 +1,5 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPClient\bin\Debug\UDPClient.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPClient\obj\Debug\UDPClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPPalvelin\bin\Debug\UDPPalvelin.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPPalvelin\bin\Debug\UDPPalvelin.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPPalvelin\bin\Debug\UDPPalvelin.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPPalvelin\obj\Debug\UDPPalvelin.csprojResolveAssemblyReference.cache
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPPalvelin\obj\Debug\UDPPalvelin.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 3\UDPPalvelin\obj\Debug\UDPPalvelin.pdb

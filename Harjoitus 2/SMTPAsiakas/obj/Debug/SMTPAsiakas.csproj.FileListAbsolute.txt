@@ -1,0 +1,6 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 2\SMTPAsiakas\bin\Debug\SMTPAsiakas.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 2\SMTPAsiakas\bin\Debug\SMTPAsiakas.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 2\SMTPAsiakas\bin\Debug\SMTPAsiakas.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 2\SMTPAsiakas\obj\Debug\SMTPAsiakas.csprojResolveAssemblyReference.cache
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 2\SMTPAsiakas\obj\Debug\SMTPAsiakas.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus 2\SMTPAsiakas\obj\Debug\SMTPAsiakas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\HTTPServer\obj\Debug\HTTPServer.pdb
+C:\Users\Eetu\ITKP104\Harjoitus 1\Harjoitus1\HTTPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
